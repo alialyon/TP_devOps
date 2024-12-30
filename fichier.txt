@@ -1,4 +1,0 @@
-"Ligne 1" 
-"Ligne 2 depuis branche-1" 
-"Ligne 2 depuis main" 
-"Modification depuis master" 
